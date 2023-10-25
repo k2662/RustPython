@@ -1,0 +1,3 @@
+[submodule "RustPython/openssl/rust-openssl"]
+        path = openssl/rust-openssl
+        url = https://github.com/k2662/rust-openssl.git
